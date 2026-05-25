@@ -160,5 +160,6 @@ FRONTEND_URL=http://localhost:3000
 ```
 
 ---
+## Author
+**Anushka Joshi**
 
-Built for **Datacom Graduate Developer Programme — Task 2: Spec-Driven Development**
