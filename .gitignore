@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Database (generated)
+backend/database/kudos.db
+backend/database/*.db-journal
+backend/database/*.db-wal
+backend/database/*.db-shm
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Build output
+frontend/build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/
